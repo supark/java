@@ -1,9 +1,4 @@
 /*
-Class : CSC 3410
-Computer number : 16395
-Professor : J.L. Bhola
-Homework #6
-Name : Jeongsu Park
 
 purpose : This is to gain experience with Binary Searh Tree and building my own LinkedList.  Each node has three 
           components, its value, pointer to left subtree and pointer to right subtree.  Generate 100 random integer 
