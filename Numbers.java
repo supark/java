@@ -1,9 +1,6 @@
 /*
- * Class : CSC 3410
- * Computer number : 16395
- * Professor : J.L. Bhola
- * Name : Jeongsu Park
- * Homework #1
+ Generating random powerball numbers.
+
  */
 package Numbers;
 
