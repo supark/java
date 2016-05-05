@@ -1,10 +1,4 @@
 /*
-Class : CSC 3410
-Computer number : 16395
-Professor : J.L. Bhola
-Homework #5
-Name : Jeongsu Park
-
 purpose : 
 I will write a program that parses infix expressions into following Tokens 
 (1) Integer constants (a series of decimal digits).
