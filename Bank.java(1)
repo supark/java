@@ -1,10 +1,4 @@
 /*
-Class : CSC 3410
-Computer number : 16395
-Professor : J.L. Bhola
-Homework #4
-Name : Jeongsu Park
-
 purpose : This program creates an LinkedList with customer's information such as first name, last name, and balance. 
           This program maintains a list of records.  The program will prompt the user for a command, execute 
           the command, then prompt the user for another command.  The commands must be chosen from the following 
