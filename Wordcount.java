@@ -1,10 +1,4 @@
 /*
-Class : CSC 3410
-Computer number : 16395
-Professor : J.L. Bhola
-Homework #2
-Name : Jeongsu Park
-
 purpose : This program prompts the user for the name of a file and then counts 
 the occurrences of words, lines, alphanumeric characters, sentences, vowels(lower and upper case), 
 and punctuations in the file.  It then reports the frequencies on the screen as well
