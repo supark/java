@@ -1,10 +1,4 @@
 /*
-Class : CSC 3410
-Computer number : 16395
-Professor : J.L. Bhola
-Homework #3
-Name : Jeongsu Park
-
 purpose : This program creates an ArrayList data structure that is similar to the ArrayList data Structure that exist in
           the java library.  It means I am going to create ArrayList manually without import the java library.
           Actually, Array lists are conceptually similar to linked lists, allowing to add and remove elements at any
